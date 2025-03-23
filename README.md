@@ -19,6 +19,6 @@ Cybersecurity undergraduate at the Sri Lanka Institute of Information Technology
 - ISO/IEC 27001:2022 Toolkit — Developed a comprehensive toolkit for building an information security management system (ISMS), including policy templates, risk treatment plans, SoA, asset inventory sheets, incident response procedures, and audit checklists.
 
 ## How to Reach Me
-Email: [sayusahas@gmail.com](mailto:sayusahas@gmail.com)
-LinkedIn: [linkedin.com/in/sahasna-dewapriya-b8a69924b] (https://www.linkedin.com/in/sahasna-dewapriya-b8a69924b/)
-Based in Malabe, Sri Lanka
+- Email: [sayusahas@gmail.com](mailto:sayusahas@gmail.com)
+- LinkedIn: [linkedin.com/in/sahasna-dewapriya-b8a69924b] (https://www.linkedin.com/in/sahasna-dewapriya-b8a69924b/)
+- Based in Malabe, Sri Lanka
